@@ -3,6 +3,11 @@ import java.util.Scanner;
 public class Assignment3 {
     private static final Scanner scanner= new Scanner(System.in);
     public static void main(String[] args) {
+
+        //KAVINDU_GAYAN_SAMARASINGHE
+        //DEP_11
+        //----------------------
+        
         String redStart = "\033[31;1m";
         String redEnd = "\033[30;0m";
         String blStart = "\033[34;1m";
